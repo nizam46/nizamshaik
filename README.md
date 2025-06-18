@@ -68,7 +68,7 @@ Output: 2
 
 
 2.Number Of Provinces
-magine you have a group of cities, some connected by direct roads, others isolated. A "province" is a group of cities where you can travel from any city to any other city in the same group (using direct or connecting roads). Cities not connected to any roads form their own single-city provinces.
+imagine you have a group of cities, some connected by direct roads, others isolated. A "province" is a group of cities where you can travel from any city to any other city in the same group (using direct or connecting roads). Cities not connected to any roads form their own single-city provinces.
 
 How the Solution Works:
 
